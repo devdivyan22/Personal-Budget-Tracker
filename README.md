@@ -1,4 +1,4 @@
-# pet4
+
 # 🚀 ApexBudget - Personal Budget & Expense Tracker
 A modern, high-performance, and visually stunning personal finance dashboard. ApexBudget allows you to manage expenses, track custom savings goals, view real-time category spending analytics, and share your budget summaries directly with other devices on your local network.
 ---
